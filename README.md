@@ -7,9 +7,15 @@
 - Altera Monitor
 - Placa FPGA Cyclone IV EP4CE6E22C8
 
+## Organização das Pastas
+- **ProjetoProcessadorQuartus**: Projeto do Quartus II contendo os arquivos de descrição do processador em Verilog, arquivos de projeto do Qsys e arquivos de diagrama de bloco do processador. 
+
+- **ProjetoAlteraMonitor**: Projeto do Altera Monitor contendo os algoritmos em Assembly e outros arquivos gerados durante a fase de *linking*.
+
 ### Compilação
 1. Execute o Quartus II
-2. Clique sobre a opção Start Compilation, na barra principal do software
+2. Abra o projeto do processador: *File > Open Project > ProjetoProcessadorQuartus.qpf*
+2. Compile o projeto: *Processing > Start Compilation *
 
 ### Testes
 Instruções para realização de Testes encontram-se na subpasta Testes da pasta ProjetoAlteraMonitor
