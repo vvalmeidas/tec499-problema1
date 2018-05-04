@@ -15,7 +15,7 @@
 ### Compilação
 1. Execute o Quartus II
 2. Abra o projeto do processador: *File > Open Project > ProjetoProcessadorQuartus.qpf*
-2. Compile o projeto: *Processing > Start Compilation *
+2. Compile o projeto: *Processing > Start Compilation*
 
 ### Testes
 Instruções para realização de Testes encontram-se na subpasta Testes da pasta ProjetoAlteraMonitor
