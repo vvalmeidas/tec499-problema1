@@ -28,7 +28,7 @@ Os parâmetros abaixo contém valores importantes para o cálculo do CRC-32Q.
 4. Compile o código fonte e o carregue na placa: *Actions > Compile & Load*
 5. Inicie a execução do código: *Actions > Continue*
 6. Observe que os *LEDs* da placa serão desligados, indicando que o código fonte foi executado
-7. Pause a execução do código *Actions > Pause*, caso deseje visualizar o valor final no registrador `R23`.
+7. Pause a execução do código *Actions > Pause*, caso deseje visualizar o valor final no registrador `R23`
 
 ### Desenvolvedores
 - Nadine Cerqueira Marques
