@@ -7,7 +7,7 @@
 - Altera Monitor
 - Placa FPGA Cyclone IV EP4CE6E22C8
 
-## Organização das Pastas
+### Organização das Pastas
 - **ProjetoProcessadorQuartus**: Projeto do Quartus II contendo os arquivos de descrição do processador em Verilog, arquivos de projeto do Qsys e arquivos de diagrama de bloco do processador. 
 
 - **ProjetoAlteraMonitor**: Projeto do Altera Monitor contendo os algoritmos em Assembly e outros arquivos gerados durante a fase de *linking*.
